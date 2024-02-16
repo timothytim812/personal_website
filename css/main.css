@@ -590,8 +590,6 @@ header .logo a {
 
  #intro {
 	background: #151515 url(/img/intro.jpg) no-repeat center;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
 	background-size: cover;
 	background-attachment: fixed;
 	width: 100%;
