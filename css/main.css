@@ -589,7 +589,7 @@ header .logo a {
 /* 08. intro */
 
  #intro {
-	background: #151515 url(/img/intro-bg.jpg) no-repeat center;
+	background: #151515 url(/img/intro.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
